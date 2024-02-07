@@ -7,6 +7,7 @@ As a Geospatial developer turned frontend enthusiast, I'm passionate about craft
 - ⚛ React
 - 💻 HTML, CSS, JavaScript
 - 🌍 Three.js
+- 🗺 GIS 
 
 ## Projects
 
@@ -20,4 +21,5 @@ Feel free to explore more of my work on [my personal website](link)!
 
 ## Get in Touch
 
-📫 You can reach me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](link).
+📫 You can reach me via email at [your.email@example.com](mailto:hossamayman2399@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/
+hossam-ayman-).
