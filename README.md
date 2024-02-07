@@ -5,6 +5,7 @@ I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, pa
 
 
 - 📝 Checkout my [Resume](https://drive.google.com/uc?export=download&id=1CBSXgMphhHq02Fsm0yIoubw9f337O6oC)
+- 👨‍🎓 Geographic infotmation system (GIS) and mapping Alexandria University.
 - <img src="https://github.com/hossam43/hossam43/blob/master/iti.svg" alt="iti logo" width="20" height="20"> [ITI graduate](https://iti.gov.eg/home)
 - <img src="https://github.com/hossam43/hossam43/blob/master/here.svg" alt="iti logo" width="20" height="20"> [Here](https://www.here.com/)'s Amppastor - Top 5 contributors in Egypt and South Africa.
 - 📫 How to reach me Mail
@@ -31,13 +32,6 @@ I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, pa
 ___
 
 
-## Education🎓
-
-- Geographic infotmation system (GIS) and mapping Alexandria University.
-- Information Technology Institute (ITI).
-  
-___
-
 ## Examples of Work 🎨
 
 <div style="display:flex; justify-content: center; margin-bottom: 32px;">
@@ -47,8 +41,7 @@ ___
     <img src="https://raw.githubusercontent.com/hossam43/hossam43/master/w-m-color6.webp" alt="work example" width="300" height="200">
 </div>
 
-
-
+<br>
 
 Feel free to explore more of my work on [my personal website](https://master--hossam-ayman.netlify.app/)!
 ___
