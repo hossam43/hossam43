@@ -7,7 +7,6 @@ I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, pa
 - 👨‍🎓 Geographic infotmation system (GIS) and mapping Alexandria University.
 - <img src="https://github.com/hossam43/hossam43/blob/master/assets/iti.svg" alt="iti logo" width="20" height="20"> [ITI graduate](https://iti.gov.eg/home)
 - <img src="https://github.com/hossam43/hossam43/blob/master/assets/here.svg" alt="here logo" width="20" height="20"> [Here](https://www.here.com/)'s Amppastor - Top 5 contributors in Egypt and South Africa.
-- 📫 How to reach me Mail
 
 ## Languages and Tools 🧰
 
