@@ -7,18 +7,15 @@ As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm 
 - ⚛ React
 - 💻 HTML, CSS, JavaScript
 - 🌍 Three.js
-- 🗺 GIS 
+- 🗺 GIS
 
 
-
-## Education and Certifecates
+## Education 
+Geographic infotmation system (GIS) and mapping Alexandria University 🎓
+Information Technology Institute (ITI) 💻
 
 
 ## Examples of Work
-
-
-
-Here are a few projects I've been working on recently:
 
 1. [Bankist](link): A basic banking application facilitates secure online management of finances, including transactions, bill payments, and account monitoring
 2. [Medicine Market](link): An e-commerce website an online platform that enables users to browse, purchase, and manage products and services securely.
