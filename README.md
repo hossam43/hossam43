@@ -3,6 +3,12 @@
 
 I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, passionate about creating immersive online experiences.<br>I love exploring languages like React and Next.js✨, and crafting interactive 3D web experiences using Three.js⛰️.<br>Additionally, I'm deeply interested in wireframing, UI/UX design🎨, and all aspects of design aesthetics.
 
+
+- 📝 Checkout my ![Resume](https://drive.google.com/uc?export=download&id=1CBSXgMphhHq02Fsm0yIoubw9f337O6oC)
+- 💻 iti graduate
+- 🦸‍♂️ Here's Amppastor contrbuter in here top 5 ranking in Egypt and South africa
+- 📫 How to reach me Mail
+
 ## Skills and Experience 💻
 
 - ⚛ React
