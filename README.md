@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/hossam43/hossam43/blob/master/assets/banner.gif)](https://master--hossam-ayman.netlify.app/)
-<img src="https://github.com/hossam43/hossam43/blob/master/assets/banner.gif" alt="MasterHead" height="200">
+<img src="https://github.com/hossam43/hossam43/blob/master/assets/banner.gif" alt="MasterHead" height="200" width="100%">
 # Hello World, I'm Hossam! 👋
 `Digital Creator (Developer/Geospatialist)`
 
