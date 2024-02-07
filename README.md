@@ -19,7 +19,9 @@ Here are a few projects I've been working on recently:
 
 Feel free to explore more of my work on [my personal website](https://master--hossam-ayman.netlify.app/)!
 
+
+
 ## Get in Touch
 
-📫 You can reach me via email at [your.email@example.com](mailto:hossamayman2399@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/
+📫 You can reach me via email at [hossamayman2399@gmail.com](mailto:hossamayman2399@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/
 hossam-ayman-).
