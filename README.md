@@ -14,7 +14,7 @@ I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, pa
 
 - 💻 HTML, CSS, JavaScript
 - ⚛ React
-- Three.js
+- <img src="https://github.com/hossam43/hossam43/blob/master/three-logo.svg" alt="three.js logo" width="20" height="20"> Three.js
 - 🌍 GIS
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
