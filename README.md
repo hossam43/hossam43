@@ -30,10 +30,10 @@ ___
 ## Examples of Work 🎨
 
 <div style="display:flex; justify-content: center; margin-bottom: 32px;">
-    <img src="https://github.com/hossam43/hossam43/blob/master/website-ui-2.webp" alt="work example" width="300" height="200" style="margin-right: 20px;">
-    <img src="https://github.com/hossam43/hossam43/blob/master/website-mock-4.jpg" alt="work example" width="300" height="200" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/hossam43/hossam43/master/website-ui-7.webp" alt="work example" width="300" height="200">
-    <img src="" alt="work example" width="300" height="200">
+    <img src="https://github.com/hossam43/hossam43/blob/master/website-ui-2.webp" alt="work example1" width="300" height="200" style="margin-right: 20px;">
+    <img src="https://github.com/hossam43/hossam43/blob/master/website-mock-4.jpg" alt="work example2" width="300" height="200" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/hossam43/hossam43/master/website-ui-7.webp" alt="work example3" width="300" height="200">
+    <img src="https://raw.githubusercontent.com/hossam43/hossam43/master/website-ui-6.webp" alt="work example4" width="300" height="200">
 </div>
 
 <br>
