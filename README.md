@@ -16,6 +16,8 @@ As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm 
 - Information Technology Institute (ITI) 💻
 
 
+[![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossam43)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Examples of Work
 
 <div style="display:flex; justify-content: center; margin-bottom: 32px;">
