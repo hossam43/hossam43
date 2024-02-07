@@ -3,11 +3,10 @@
 
 I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, passionate about creating immersive online experiences.<br>I love exploring languages like React and Next.js✨, and crafting interactive 3D web experiences using Three.js⛰️.<br>Additionally, I'm deeply interested in wireframing, UI/UX design🎨, and all aspects of design aesthetics.
 
-
 - 📝 Checkout my [Resume](https://drive.google.com/uc?export=download&id=1CBSXgMphhHq02Fsm0yIoubw9f337O6oC)
 - 👨‍🎓 Geographic infotmation system (GIS) and mapping Alexandria University.
-- <img src="https://github.com/hossam43/hossam43/blob/master/iti.svg" alt="iti logo" width="20" height="20"> [ITI graduate](https://iti.gov.eg/home)
-- <img src="https://github.com/hossam43/hossam43/blob/master/here.svg" alt="here logo" width="20" height="20"> [Here](https://www.here.com/)'s Amppastor - Top 5 contributors in Egypt and South Africa.
+- <img src="https://github.com/hossam43/hossam43/blob/master/assets/iti.svg" alt="iti logo" width="20" height="20"> [ITI graduate](https://iti.gov.eg/home)
+- <img src="https://github.com/hossam43/hossam43/blob/master/assets/here.svg" alt="here logo" width="20" height="20"> [Here](https://www.here.com/)'s Amppastor - Top 5 contributors in Egypt and South Africa.
 - 📫 How to reach me Mail
 
 ## Languages and Tools 🧰
@@ -30,10 +29,10 @@ ___
 ## Examples of Work 🎨
 
 <div style="display:flex; justify-content: center; margin-bottom: 32px;">
-    <img src="https://github.com/hossam43/hossam43/blob/master/website-ui-2.webp" alt="work example1" width="300" height="200" style="margin-right: 20px;">
-    <img src="https://github.com/hossam43/hossam43/blob/master/website-mock-4.jpg" alt="work example2" width="300" height="200" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/hossam43/hossam43/master/website-ui-7.webp" alt="work example3" width="300" height="200">
-    <img src="https://raw.githubusercontent.com/hossam43/hossam43/master/website-ui-6.webp" alt="work example4" width="300" height="200">
+    <img src="https://github.com/hossam43/hossam43/blob/master/assets/website-ui-2.webp" alt="work example1" width="300" height="200" style="margin-right: 20px;">
+    <img src="https://github.com/hossam43/hossam43/blob/master/assets/website-mock-4.jpg" alt="work example2" width="300" height="200" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/hossam43/hossam43/master/assets/website-ui-7.webp" alt="work example3" width="300" height="200">
+    <img src="https://raw.githubusercontent.com/hossam43/hossam43/master/assets/website-ui-6.webp" alt="work example4" width="300" height="200">
 </div>
 
 <br>
