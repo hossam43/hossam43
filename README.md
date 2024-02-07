@@ -2,7 +2,7 @@
 
 As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm passionate about crafting immersive online experiences.<br>I love exploring languages like React and Next.js✨, and crafting interactive 3D web experiences using Three.js⛰️.<br>Additionally, I'm deeply interested in wireframing, UI/UX design🎨, and all aspects of design aesthetics.
 
-## Skills and Experience
+## Skills and Experience 💻
 
 - ⚛ React
 - 💻 HTML, CSS, JavaScript
@@ -11,10 +11,10 @@ As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm 
 
 
 
-## Education 
+## Education🎓
 
-- Geographic infotmation system (GIS) and mapping Alexandria University 🎓
-- Information Technology Institute (ITI) 💻
+- Geographic infotmation system (GIS) and mapping Alexandria University.
+- Information Technology Institute (ITI).
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
