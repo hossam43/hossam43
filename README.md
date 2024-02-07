@@ -18,7 +18,7 @@ As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm 
 
 ## Examples of Work
 
-<div style="display:flex; justify-content: center;margin-bottom: '234px';">
+<div style="display:flex; justify-content: center; margin-bottom: 32px;">
     <img src="https://github.com/hossam43/hossam43/blob/master/website-ui-2.webp" alt="work example" width="300" height="200" style="margin-right: 20px;">
     <img src="https://github.com/hossam43/hossam43/blob/master/website-mock-4.jpg" alt="work example" width="300" height="200" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/hossam43/hossam43/master/website-ui-7.webp" alt="work example" width="300" height="200">
