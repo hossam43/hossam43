@@ -16,9 +16,6 @@ As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm 
 - Geographic infotmation system (GIS) and mapping Alexandria University 🎓
 - Information Technology Institute (ITI) 💻
 
-<div style="display: inline-block; margin-left: 5px;">
-
-
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -65,8 +62,6 @@ As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-    
-</div>
 
 
 
