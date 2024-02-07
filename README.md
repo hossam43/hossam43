@@ -1,5 +1,6 @@
 # Hi there, I'm Hossam! 👋
-`Highlighted Text`
+`Digital Creator (Developer/Geospatial)`
+
 I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, passionate about creating immersive online experiences.<br>I love exploring languages like React and Next.js✨, and crafting interactive 3D web experiences using Three.js⛰️.<br>Additionally, I'm deeply interested in wireframing, UI/UX design🎨, and all aspects of design aesthetics.
 
 ## Skills and Experience 💻
