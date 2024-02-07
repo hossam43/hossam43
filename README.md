@@ -1,6 +1,6 @@
 # Hi there, I'm Hossam! 👋
 
-As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm passionate about crafting immersive online experiences. I enjoy diving into languages and frameworks like React and Next.js✨, as well as building super interactive 3D web experiences using Three.js⛰️. Additionally, I have a keen interest in wireframing, UI/UX design🎨, and all things related to design aesthetics.
+As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm passionate about crafting immersive online experiences.<br>I enjoy diving into languages and frameworks like React and Next.js✨, as well as building super interactive 3D web experiences using Three.js⛰️.<br>I have a keen interest in wireframing, UI/UX design🎨, and all things related to design aesthetics.
 
 ## Skills and Experience
 
