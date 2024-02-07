@@ -33,5 +33,4 @@ Feel free to explore more of my work on [my personal website](https://master--ho
 
 ## Get in Touch
 
-📫 You can reach me via email at [hossamayman2399@gmail.com](mailto:hossamayman2399@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/
-hossam-ayman-)!.
+📫 You can reach me via email at [hossamayman2399@gmail.com](mailto:hossamayman2399@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hossam-ayman-/).
