@@ -18,7 +18,7 @@ As a Geospatial developer turned frontend enthusiast Alexandria🌊, Egypt, I'm 
 
 ## Examples of Work
 
-<img src="(https://github.com/hossam43/hossam43/blob/master/website-mock-4.jpg)" alt="work example" width="300" height="200">
+<img src="https://github.com/hossam43/hossam43/blob/master/website-mock-4.jpg" alt="work example" width="300" height="200">
 
 
 1. [Bankist](link): A basic banking application facilitates secure online management of finances, including transactions, bill payments, and account monitoring
