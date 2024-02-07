@@ -10,12 +10,12 @@ I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, pa
 - <img src="https://github.com/hossam43/hossam43/blob/master/here.svg" alt="here logo" width="20" height="20"> [Here](https://www.here.com/)'s Amppastor - Top 5 contributors in Egypt and South Africa.
 - 📫 How to reach me Mail
 
-## Skills and Experience 💻
+## Languages and Tools 🧰
 
-- ⚛ React
 - 💻 HTML, CSS, JavaScript
-- 🌍 Three.js
-- 🗺 GIS
+- ⚛ React
+- Three.js
+- 🌍 GIS
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
