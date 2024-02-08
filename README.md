@@ -4,7 +4,7 @@
 `Digital Creator (Developer/Geospatialist)`
 
 I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, passionate about creating immersive online experiences.<br>I love exploring languages like React and Next.js✨, and crafting interactive 3D web experiences using Three.js⛰️.<br>Additionally, I'm deeply interested in wireframing, UI/UX design🎨, and all aspects of design aesthetics.
-<img aligh="center" alt="coding" width="400" src="https://github.com/hossam43/hossam43/blob/master/assets/programmer.gif">
+
 - 📝 Checkout my [Resume](https://drive.google.com/uc?export=download&id=1CBSXgMphhHq02Fsm0yIoubw9f337O6oC)
 - 🌐 Checkout my [portfolio](https://master--hossam-ayman.netlify.app/)
 - 👨‍🎓 Geographic infotmation system (GIS) and mapping Alexandria University.
