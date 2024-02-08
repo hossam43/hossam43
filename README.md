@@ -11,6 +11,16 @@ I'm a Geospatial developer turned frontend enthusiast from Alexandria, Egypt, pa
 - <img src="https://github.com/hossam43/hossam43/blob/master/assets/iti.svg" alt="iti logo" width="20" height="20"> [ITI graduate](https://iti.gov.eg/home)
 - <img src="https://github.com/hossam43/hossam43/blob/master/assets/here.svg" alt="here logo" width="20" height="20"> [Here](https://www.here.com/)'s Amppastor - Top 5 contributors in Egypt and South Africa.
 
+
+| Left Column                                 | Right Column                                            |
+|---------------------------------------------|---------------------------------------------------------|
+| - 📝 Checkout my [Resume](https://drive.google.com/uc?export=download&id=1CBSXgMphhHq02Fsm0yIoubw9f337O6oC) | ![coding](https://github.com/hossam43/hossam43/blob/master/assets/programmer.gif) |
+| - 🌐 Checkout my [portfolio](https://master--hossam-ayman.netlify.app/)                                 |                                                         |
+| - 👨‍🎓 Geographic information system (GIS) and mapping Alexandria University.                          |                                                         |
+| - [ITI graduate](https://iti.gov.eg/home)                                                               |                                                         |
+| - [Here](https://www.here.com/)'s Amppastor - Top 5 contributors in Egypt and South Africa.            |                                                         |
+
+
 ## Languages and Tools 🧰
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
